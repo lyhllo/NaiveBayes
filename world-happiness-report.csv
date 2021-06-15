@@ -102,7 +102,7 @@ Healthy life expectancy at birth,Generosity,Positive affect,Negative affect,Coun
 64120,-168,619,242,Azerbaijan
 64360,-208,598,220,Azerbaijan
 64600,-198,607,206,Azerbaijan
-64900,-204,598,191,Azerbaijan
+64600,-198,607,206,Azerbaijan
 65200,-225,592,198,Azerbaijan
 65500,-232,593,191,Azerbaijan
 65800,-214,643,164,Azerbaijan
@@ -465,7 +465,7 @@ Healthy life expectancy at birth,Generosity,Positive affect,Negative affect,Coun
 73000,52,818,227,Denmark
 53260,129,755,120,Djibouti
 53780,5,662,232,Djibouti
-54300,-58,,,Djibouti
+53780,5,662,232,Djibouti
 54700,-57,579,181,Djibouti
 62680,38,748,274,Dominican Republic
 62960,-8,767,260,Dominican Republic
@@ -607,7 +607,7 @@ Healthy life expectancy at birth,Generosity,Positive affect,Negative affect,Coun
 64100,-221,611,295,Georgia
 70200,,776,197,Germany
 70480,167,732,231,Germany
-70620,,787,220,Germany
+70480,167,732,231,Germany
 70760,127,792,206,Germany
 70900,95,794,182,Germany
 70980,33,794,165,Germany
@@ -1054,7 +1054,7 @@ Healthy life expectancy at birth,Generosity,Positive affect,Negative affect,Coun
 65280,44,815,186,Malaysia
 65440,-9,822,164,Malaysia
 65600,32,832,192,Malaysia
-65760,-16,887,155,Malaysia
+65600,32,832,192,Malaysia
 65920,17,867,177,Malaysia
 66080,264,736,317,Malaysia
 66240,239,770,261,Malaysia
